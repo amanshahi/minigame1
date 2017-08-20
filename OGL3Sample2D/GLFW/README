@@ -1,0 +1,19 @@
+Compile and run :
+1)To compile: make (or make clean and then make preferably, *requires libao and mpg123 libraries.)
+2)Then do ./sample2D to start the game
+
+
+Controls : 
+1) press A or D to move the cannon up or down
+2) press S or F to rotate the cannon
+3) press CTRL + left CTRL + right to move blue basket
+4) press ALT + left ALT + right to move red basket
+5) press space bar to shoot a cannon
+6) speed can be increased by N and decreased by M 
+
+
+Scoring : 
+1) shooting red/ blue woud yeild -1 point
+2) shooting black would yield +1 point
+3) if red goes in red basket, you get +1, and the same holds for blue
+
